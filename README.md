@@ -1,4 +1,4 @@
-### Hi there, I am Baris 👋
+### Hi there, I am Barış 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barisaltunoglu&theme=dark)](https://github.com/barisaltunoglu/github-readme-stats)
 
